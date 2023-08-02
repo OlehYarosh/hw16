@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/hw16/static/css/main.0f1dee8c.css",
+    "main.js": "/hw16/static/js/main.2474d745.js",
+    "static/js/787.25e9fe7a.chunk.js": "/hw16/static/js/787.25e9fe7a.chunk.js",
+    "static/media/gimliWarior.png": "/hw16/static/media/gimliWarior.3402727712e1bba6d461.png",
+    "static/media/singingDwarves.png": "/hw16/static/media/singingDwarves.af2dc35d311d2327b592.png",
+    "static/media/aragorn.jpg": "/hw16/static/media/aragorn.82f1aeb1d633de25186f.jpg",
+    "static/media/gandalf.jpg": "/hw16/static/media/gandalf.5024da3b64b86ad6bebf.jpg",
+    "static/media/gandalfSmile.png": "/hw16/static/media/gandalfSmile.200defbae64c4b5c9fcc.png",
+    "static/media/swordAragorn.jpg": "/hw16/static/media/swordAragorn.6c59ec2d2e93ccda1ff7.jpg",
+    "static/media/gandalfLaughs.jpg": "/hw16/static/media/gandalfLaughs.c73a928ca8c208aa0df2.jpg",
+    "static/media/frodo.jpg": "/hw16/static/media/frodo.e40d81b1c5318b206111.jpg",
+    "static/media/gimli.jpg": "/hw16/static/media/gimli.3bd390ca8d230acc9e4d.jpg",
+    "static/media/logo.png": "/hw16/static/media/logo.13171999eaaee702d86e.png",
+    "static/media/dancing.jpg": "/hw16/static/media/dancing.b74ec65b3a5bedb92060.jpg",
+    "static/media/gandalfDancing.jpg": "/hw16/static/media/gandalfDancing.4abaebb617d8f2d7235e.jpg",
+    "static/media/legolas.webp": "/hw16/static/media/legolas.5cfa641a5b62232159e1.webp",
+    "static/media/drink.webp": "/hw16/static/media/drink.590a0960c329c9cca648.webp",
+    "static/media/comments-icon.png": "/hw16/static/media/comments-icon.137dbdb5102fac8c1742.png",
+    "static/media/views-icon.png": "/hw16/static/media/views-icon.214af0f25dabbf6069e1.png",
+    "index.html": "/hw16/index.html",
+    "main.0f1dee8c.css.map": "/hw16/static/css/main.0f1dee8c.css.map",
+    "main.2474d745.js.map": "/hw16/static/js/main.2474d745.js.map",
+    "787.25e9fe7a.chunk.js.map": "/hw16/static/js/787.25e9fe7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f1dee8c.css",
+    "static/js/main.2474d745.js"
+  ]
+}
